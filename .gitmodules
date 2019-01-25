@@ -1,12 +1,12 @@
 [submodule "simulink_sub"]
 	path = simulink_sub
 	url = https://github.com/katofalka/simulink_sub.git
-[submodule "MEX"]
-	path = MEX
-	url = https://github.com/katofalka/MEX.git
-[submodule "dialect"]
-	path = dialect
-	url = https://github.com/katofalka/dialect.git
 [submodule "simulink_mavlink"]
 	path = simulink_mavlink
 	url = https://github.com/katofalka/simulink_mavlink.git
+[submodule "MEX/matconvnet"]
+	path = MEX/matconvnet
+	url = https://github.com/vlfeat/matconvnet.git
+[submodule "dialect/c_library_v2"]
+	path = dialect/c_library_v2
+	url = https://github.com/mavlink/c_library_v2.git
